@@ -1,5 +1,5 @@
 # Hardy-Ramanujan-Numbers
-'''
+``` c
 
 #include <stdio.h>
 
@@ -116,4 +116,4 @@ int main()
 }
 
 
-'''
+```
